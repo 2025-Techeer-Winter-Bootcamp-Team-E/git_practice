@@ -4,9 +4,9 @@
 """
 
 # 팀원1 정보 (수정해주세요!)
-NAME = "팀원1"
-ROLE = "역할을 입력하세요"
-HOBBY = "취미를 입력하세요"
+NAME = "조성훈"
+ROLE = "개발자"
+HOBBY = "개발"
 
 
 def introduce():
