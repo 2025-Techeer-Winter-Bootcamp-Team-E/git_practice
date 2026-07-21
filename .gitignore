@@ -1,0 +1,6 @@
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 로컬 도구 상태
+.omc/

@@ -1,6 +1,6 @@
 # Git 협업 연습 프로젝트
 
-4명의 팀원이 함께 Git 협업을 연습하기 위한 Python 프로젝트입니다.
+7명의 팀원이 함께 Git 협업을 연습하기 위한 Python 프로젝트입니다.
 
 ## 프로젝트 구조
 
@@ -13,7 +13,10 @@ git_proctice/
 │   ├── member1.py   # 팀원1 담당
 │   ├── member2.py   # 팀원2 담당
 │   ├── member3.py   # 팀원3 담당
-│   └── member4.py   # 팀원4 담당
+│   ├── member4.py   # 팀원4 담당
+│   ├── member5.py   # 팀원5 담당
+│   ├── member6.py   # 팀원6 담당
+│   └── member7.py   # 팀원7 담당
 └── README.md
 ```
 
@@ -168,3 +171,6 @@ git reset HEAD 파일명   # 스테이징 취소
 | 팀원2 | team/member2.py | - |
 | 팀원3 | team/member3.py | - |
 | 팀원4 | team/member4.py | - |
+| 팀원5 | team/member5.py | - |
+| 팀원6 | team/member6.py | - |
+| 팀원7 | team/member7.py | - |

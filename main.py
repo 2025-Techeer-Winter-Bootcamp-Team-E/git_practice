@@ -1,9 +1,9 @@
 """
 Git 협업 연습 프로젝트 - 메인 파일
-4명의 팀원이 함께 작업하는 프로젝트입니다.
+7명의 팀원이 함께 작업하는 프로젝트입니다.
 """
 
-from team import member1, member2, member3, member4
+from team import member1, member2, member3, member4, member5, member6, member7
 from utils import print_header, print_separator
 
 
@@ -19,6 +19,9 @@ def main():
         member2.introduce(),
         member3.introduce(),
         member4.introduce(),
+        member5.introduce(),
+        member6.introduce(),
+        member7.introduce(),
     ]
 
     for info in members:
@@ -34,6 +37,9 @@ def main():
     print("팀원2:", member2.my_function())
     print("팀원3:", member3.my_function())
     print("팀원4:", member4.my_function())
+    print("팀원5:", member5.my_function())
+    print("팀원6:", member6.my_function())
+    print("팀원7:", member7.my_function())
 
     print_separator()
     print("\n프로젝트 실행 완료!")

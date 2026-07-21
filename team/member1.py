@@ -4,7 +4,7 @@
 """
 
 # 팀원1 정보 (수정해주세요!)
-NAME = "조성훈"
+NAME = "Michael"
 ROLE = "개발자"
 HOBBY = "개발"
 
